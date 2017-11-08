@@ -1,0 +1,82 @@
+<!-- Begin Wrapper -->
+[social]
+
+<!-- Begin Blog Grid -->
+<div class="blog-wrap">
+	<!-- Begin Blog -->
+
+	<div class="blog-grid">
+		<!-- Begin Video Format -->
+
+		<div class="post format-video box"> 
+			<div class="video frame">
+                             <video controls="" height="375" width="500">
+                                  <source src="[base_http]/videos/familia/pulsera.mp4" type="video/mp4"></source>
+                                  <source src="[base_http]/videos/familia/pulsera.ogv" type="video/ogv"></source>
+                                  <source src="[base_http]/videos/familia/pulsera.webm" type="video/webm"></source>
+                             </video>
+                        </div>
+			<h2 class="title"><a href="[base_http]/cajon/pulseras/2">Pulseras</a></h2>
+			<p>Leyre fent pulseras.</p>
+		
+			<div class="details">
+				<span class="icon-video"><a href="#">September 13, 2012</a></span>
+				<span class="likes"><a href="#" class="likeThis">18</a></span>
+				<span class="comments"><a href="#">1</a></span>
+			</div>
+			
+		</div>
+
+		<!-- End Video Format -->
+		<!-- Begin Video Format -->
+
+		<div class="post format-video box"> 
+			<div class="video frame">
+                             <video controls="" height="375" width="500">
+                                  <source src="[base_http]/videos/familia/festival.mp4" type="video/mp4"></source>
+                                  <source src="[base_http]/videos/familia/festival.ogv" type="video/ogv"></source>
+                                  <source src="[base_http]/videos/familia/festival.webm" type="video/webm"></source>
+                             </video>
+                        </div>
+			<h2 class="title"><a href="[base_http]/cajon/he_mele_no_lilo">He mele no Lilo</a></h2>
+			<p>Leyre fent balls hawaians.</p>
+		
+			<div class="details">
+				<span class="icon-video"><a href="#">September 13, 2012</a></span>
+				<span class="likes"><a href="#" class="likeThis">18</a></span>
+				<span class="comments"><a href="#">1</a></span>
+			</div>
+			
+		</div>
+
+		<!-- End Video Format -->
+                <!-- Begin Quote Format -->
+
+		<div class="post format-quote box"> 
+			<blockquote>Si pots sominar-ho, pots fer-ho.<cite>Walt Disney</cite></blockquote>	
+			<div class="details">
+				<span class="icon-quote"><a href="#">September 21, 2012</a></span>
+				<span class="likes"><a href="#" class="likeThis">27</a></span>
+				<span class="comments"><a href="#">4</a></span>
+			</div>
+	
+		</div>
+
+		<!-- End Quote Format --> 	
+ 	
+ 	</div>
+	<!-- End Blog -->
+</div>
+<!-- End Blog Grid -->
+
+<!-- Begin Page-navi -->
+    <div id="navigation">
+       <div class="nav-previous"><a href="#" ><span class="meta-nav-prev">&larr; Older posts</span></a></div>
+      <!--
+			<div class="nav-next"><a href="#" ><span class="meta-nav-next">Newer posts &rarr;</span></a></div>
+			 --> 
+    </div>
+    <!-- End Page-navi --> 
+
+</div>
+<!-- End Wrapper -->

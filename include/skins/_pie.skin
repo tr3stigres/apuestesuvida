@@ -1,0 +1,59 @@
+
+
+		<!-- Footer Wrapper -->
+			<div id="footer-wrapper">
+				
+				<!-- Footer -->
+					<section id="footer" class="container">
+						<div class="row">
+							<div class="8u">
+
+								<section>
+									<header>
+										<h2>El meu m&oacute;n</h2>
+									</header>
+									<p>
+										Benvingut a la meva web personal. Aquesta web sempre ha estat pensada com un lloc de caracter personal, per poder dir el que penso i ho llegeixi qui volgui, per salvar la meva memoria abans de perdre-la, per posar en ordre el meu m&oacute;n dins del m&oacute;n. La aventura va comen&ccedil;ar un 22 de desembre del 2004 i de moment continuu aqu&iacute;. Tot el que trobareu aqu&iacute;, te un autor, un propietari, per&oacute; en cap cas hi ha cap intenci&oacute; mes enll&agrave; que la d'informar, recordar o fer homenatges. Aquests son els meus principis, i si no li agradan, en tinc d'altres..
+									</p>
+									
+								</section>
+							
+							</div>
+							<div class="4u">
+							
+								<section>
+									<header>
+										<h2>Els meus altres mons</h2>
+									</header>
+									<ul class="social">
+										<li><a class="fa fa-facebook solo" href="https://www.facebook.com/tr3stigres"><span>Facebook</span></a></li>
+										<li><a class="fa fa-twitter solo" href="https://twitter.com/tr3stigres"><span>Twitter</span></a></li>
+										<li><a class="fa fa-linkedin solo" href="http://es.linkedin.com/pub/jordi-gil-xim%C3%A9nez/68/419/2b6"><span>LinkedIn</span></a></li>
+										<li><a class="fa fa-google-plus solo" href="https://plus.google.com/113566188843411062083/posts"><span>Google+</span></a></li>
+									</ul>
+									<ul class="contact">
+										<li>
+											<h3>Mail</h3>
+											<p><a href="#">tr3stiges@hotmail.com</a></p>
+										</li>										
+									</ul>
+								</section>
+							
+							</div>
+						</div>
+						<div class="row">
+							<div class="12u">
+							
+								<!-- Copyright -->
+									<div id="copyright">
+										<ul class="links">
+											<li>&copy; 22/12/2004	</li>
+											<li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+										</ul>
+									</div>
+
+							</div>
+						</div>
+					</section>
+				
+			</div>

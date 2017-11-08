@@ -1,0 +1,31 @@
+<!doctype html>
+<html>
+	<head>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="description" content="Pagina personal de Jordi Gil">
+		<meta name="keywords" content="Apueste su vida, Aposti a seva vida, You bet your life, Jordi Gil, Jordi Gil Ximénez">
+		<link href='http://blog.apuestesuvida.com/favicon.ico' rel='icon' type='image/x-icon'/>
+		<title>Apueste su vida | Jordi Gil's website</title>
+
+		<link rel="stylesheet" type="text/css" href="[base_http]/css/[fitxer_css]" />
+		<link href="http://www.apuestesuvida.com/assets/font-awesome/css/font-awesome.css" rel="stylesheet" />
+                
+		<script src="[base_http]/js/jquery-2.1.4.min.js"></script>
+		<script>
+		jQuery(document).ready(function() {
+		    jQuery('.toggle-nav').click(function(e) {
+		        jQuery(this).toggleClass('active');
+		        jQuery('.menu ul').toggleClass('active');
+		 
+		        e.preventDefault();
+		    });
+		});
+		</script>
+
+	</head>
+	<body>
+		[cabecera]
+		[cuerpo]
+		[pie]
+	</body>
+</html>

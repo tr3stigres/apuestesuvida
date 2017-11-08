@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
+	<title>apuestesuvida.com - Pagina personal de Jordi Gil</title>
+	<meta name="description" content="Pagina personal de Jordi Gil Xim&eacute;nez. La puerta a mi mundo en internet." />
+	<meta name="keywords" content="Jordi Gil Xim&eacute;nez, Jordi, Gil, Xim&eacute;nez, Apueste su vida" />
+	<link href='http://www.apuestesuvida.com/images/favicon.ico' rel='icon' type='image/x-icon'/>
+
+<!-- Mobile viewport -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<link rel="shortcut icon" href="images/favicon.ico"  type="image/x-icon">
+
+<!-- CSS-->
+<!-- Google web fonts. You can get your own bundle at http://www.google.com/fonts. Don't forget to update the CSS accordingly!-->
+<link href='http://fonts.googleapis.com/css?family=Droid+Serif|Ubuntu' rel='stylesheet' type='text/css'>
+
+<link rel="stylesheet" href="[base_http]/css/normalize.css">
+<link rel="stylesheet" href="[base_http]/js/flexslider/flexslider.css">
+<link rel="stylesheet" href="[base_http]/css/basic-style.css">
+<link rel="stylesheet" href="[base_http]/css/estilos.css">
+
+<!-- end CSS-->
+    
+<!-- JS-->
+<script src="[base_http]/js/libs/modernizr-2.6.2.min.js"></script>
+<!-- end JS-->
+
+
+<!-- columns demo style. DELETE IT! -->
+<style type="text/css">
+.foto_galeria{
+	max-width: 100%;
+	height: auto;
+}
+.tamany_1{
+    color:#333;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    text-decoration: none;
+}
+@media (max-width: 768px){
+    .tamany_1{
+        font-size:28px;  
+
+    }
+}
+@media (max-width: 1023px){
+    .tamany_1{
+        font-size:45px;  
+line-height:50px;
+    }
+}
+@media (min-width: 1024px){
+    .tamany_1{
+        font-size:90px;  
+        line-height:95px;
+    }
+}
+</style>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-54815355-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</head>
+
+<body>           
+	
+		[cabecera]
+		[cuerpo]
+		[pie]
+	
+	
+<!-- jQuery -->
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="[base_http]/js/libs/jquery-1.9.0.min.js">\x3C/script>')</script>
+
+<script defer src="[base_http]/js/flexslider/jquery.flexslider-min.js"></script>
+
+<!-- fire ups - read this file!  -->   
+<script src="[base_http]/js/main.js"></script>
+<bloque nombre="js_fotos">
+<script>
+$(document).ready(function() {
+	$(window).scroll(function(){
+		if ((parseInt($("#ultima").val())<arr_fotos.length) && $(this).scrollTop() == $(document).height() - $(this).height() ) mostrar_datos();
+	});	
+	
+	$("#ultima").val(0);
+	var arr_fotos=new Array();
+	arr_fotos[0]="https://farm9.staticflickr.com/8606/15630768424_1e6bda1156_o.jpg";
+	arr_fotos[1]="https://farm9.staticflickr.com/8597/16265582012_0ab6479dd4_o.jpg";
+	arr_fotos[2]="https://farm9.staticflickr.com/8591/15507165574_dcd5896473_o.jpg";
+	arr_fotos[3]="https://farm9.staticflickr.com/8586/15943747537_b3f48ce8c1_o.jpg";
+	arr_fotos[4]="https://farm8.staticflickr.com/7465/15507171694_54a5303120_o.jpg";
+	arr_fotos[5]="https://farm8.staticflickr.com/7482/15942215770_28c9d293e7_o.jpg";
+	arr_fotos[6]="https://farm8.staticflickr.com/7477/15942089878_cf251284fe_o.jpg";
+	arr_fotos[7]="https://farm9.staticflickr.com/8614/15507199294_5038178382_o.jpg";
+	arr_fotos[8]="https://farm9.staticflickr.com/8584/15509826643_f722a29306_o.jpg";
+	arr_fotos[9]="https://farm8.staticflickr.com/7514/15942245700_e58c01bf96_o.jpg";
+	arr_fotos[10]="https://farm8.staticflickr.com/7496/15509761683_ccc7d0108d_o.jpg";
+	arr_fotos[11]="https://farm8.staticflickr.com/7549/15509765913_73c6487fcc_o.jpg";
+	arr_fotos[12]="https://farm8.staticflickr.com/7534/15509770923_e478f6e969_o.jpg";
+	arr_fotos[13]="https://farm9.staticflickr.com/8669/16128738242_7a7629ab50_o.jpg";
+	arr_fotos[14]="https://farm8.staticflickr.com/7550/15943407629_f4f795cda2_o.jpg";
+	arr_fotos[15]="https://farm9.staticflickr.com/8613/15943822287_e9bc940ca5_o.jpg";
+	arr_fotos[16]="https://farm9.staticflickr.com/8597/16101817896_a8b81d7c0e_o.jpg";
+	arr_fotos[17]="https://farm8.staticflickr.com/7508/15994673396_74cb9701d0_o.jpg";
+	arr_fotos[18]="https://farm9.staticflickr.com/8605/16013509835_15911559e7_o.jpg";
+	arr_fotos[19]="https://farm8.staticflickr.com/7541/15392633693_2f6748828a_o.jpg";
+	arr_fotos[20]="https://farm8.staticflickr.com/7290/15908255883_18ea7daafb_o.jpg";
+
+	function mostrar_datos(){
+		var lon=arr_fotos.length;
+		var v_nueva_foto='';
+		var v_ultima=$("#ultima").val();
+		var i=$("#ultima").val();
+		while (i<lon && i<v_ultima + 5){
+			v_nueva_foto='<img src="aqui" border="0" class="foto_galeria" /><br /><br />';
+			v_nueva_foto=v_nueva_foto.replace("aqui", arr_fotos[i]);
+			$('#zona_fotos').append(v_nueva_foto);
+			i++;
+		}
+		$("#ultima").val(i);
+	}
+	mostrar_datos();
+});
+</script>
+</bloque nombre="js_fotos">
+</body>
+</html>
