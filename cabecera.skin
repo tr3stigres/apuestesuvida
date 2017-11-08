@@ -1,0 +1,20 @@
+<div id="headline">
+			<div class="container">
+				
+				<h1><a href="[base_http]">Apueste su vida</a></h1>
+				<p>Jordi Gil's web site</p>
+				
+				<nav class="menu">
+					<ul class="active">
+						<li [activa_1]><a href="[base_http]/links">Links ràpids</a></li>
+						<li [activa_2]><a href="[base_http]/video/concert">Videos</a></li>
+						<li [activa_3]><a href="[base_http]/banda_sonora">Banda sonora</a></li>
+						<li [activa_4]><a href="[base_http]/cajon">Calaix de sastre</a></li>
+					</ul>
+					
+					<a class="toggle-nav" href="#">&#9776;</a>
+					
+					
+				</nav>			
+			</div>
+		</div>

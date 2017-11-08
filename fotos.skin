@@ -1,0 +1,27 @@
+<!-- hero area (the grey one with a slider -->
+    <section id="page-header" class="clearfix">    
+   
+    <div class="wrapper">
+      <h1>Les meves fotos</h1>
+    </div>
+    </section><!-- end hero area -->
+<!-- main content area -->   
+   
+<div id="main" class="wrapper clearfix">    
+
+<!-- content area -->    
+	
+    
+               <div id="zona_fotos" style="text-align: center; max-width: 100%;"></div>
+				
+			<input type="hidden" id="ultima" name="ultima" value=0> 
+                
+
+<!-- #end content area -->
+      
+      
+    
+    
+    
+    
+</div><!-- #end div #main .wrapper -->

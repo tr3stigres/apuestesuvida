@@ -1,0 +1,306 @@
+<!--breadcrumbs start-->
+    <div class="breadcrumbs">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-4 col-sm-4">
+            <h1>
+              About
+            </h1>
+          </div>
+          <div class="col-lg-8 col-sm-8">
+            <ol class="breadcrumb pull-right">
+              <li><a href="[base_http]">Home</a></li>
+              <li class="active">About</li>
+            </ol>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!--breadcrumbs end-->
+
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-7">
+        	<h2>Apueste su vida</h2>
+        	<p>
+        	Aposti la seva vida, You bet your life en seu idioma original, es el nom del concurs emes per televisi&oacute; i radio simult&agrave;niament entre 1950 fins 1961, que tenia per presentador a Julius Marx, conegut mundialment com Groucho.<br />
+			Era el t&iacute;pic programa de preguntes i respostes, on a Groucho abans de comen&ccedil;ar li passaven algunes dades de les vides del concursant, preparava acudits i els deixava anar mentre parlava amb ells. Expliquen que per la audi&egrave;ncia el de menys era veure qui guanyava sin&oacute; amb quin enginy&oacute;s joc de paraules sortiria de la boca d'en Groucho.<br />
+			<br />
+			S&oacute;c un gran admirador d'en Groucho, per&ograve; encara mes del vell Julius. Va ser un home genial i inquiet, va fer teatre, varietes que li deien, cinema, radio, televisi&oacute;, va escriure algun llibre i alguna columna en diaris.<br />
+			Es la persona que davant de centenars de persones expectants davant de un m&egrave;dium que deia que parlava amb els morts, es va aixecar i va preguntar si els morts li sabrien dir la capital de Wisnconsin. El home que mentre tallava les males herbes del seu jard&iacute;, una dona se li va apropar i preguntar que quan li pagaven. Res - va contestar ell - la senyora em deixa dormir amb ella totes les nits. Aquell que va escriure per una de les seves pel.l&iacute;cules "Aquests son els meus principis, i si no li agraden, en tinc d'altres."<br />
+			Segurament, el 100% de les histories sobre en Groucho son falses, per&ograve; en Julius era ben real. Aix&iacute; que aquesta es la millor manera de retre-li homenatge. <br />
+			<br />
+        	</p>
+        </div>
+        <div class="col-lg-5">
+          <div class="about-carousel wow fadeInLeft">
+            <div id="myCarousel" class="carousel slide">
+              <!-- Carousel items -->
+              <div class="carousel-inner">
+                <div class="active item">
+                  <img src="img/service3.jpg" alt="">
+                  <div class="carousel-caption">
+                    <p>
+                      Si pot somiar-ho pots fer-ho (Walt Disney)
+                    </p>
+                  </div>
+                </div>
+                <div class="item">
+                  <img src="img/service2.jpg" alt="">
+                  <div class="carousel-caption">
+                    <p>
+                      Sigues tu i prova de ser feli&ccedil;, pero sobretot sigues tu. (Charles Chaplin)
+                    </p>
+                  </div>
+                </div>
+                <div class="item">
+                  <img src="img/service5.jpg" alt="">
+                  <div class="carousel-caption">
+                    <p>
+                      Aquests son els meus principis,i si no li agraden,<br /> en tinc d'altres. (Groucho Marx)
+                    </p>
+                  </div>
+                </div>
+
+              </div>
+              <!-- Carousel nav -->
+              <a class="carousel-control left" href="#myCarousel" data-slide="prev">
+                <i class="fa fa-angle-left">
+                </i>
+              </a>
+              <a class="carousel-control right" href="#myCarousel" data-slide="next">
+                <i class="fa fa-angle-right">
+                </i>
+              </a>
+            </div>
+          </div>
+        </div>
+    </div>
+    
+<div class="gray-box">
+      <div class="container">
+        <div class="row">
+          <div class="text-center feature-head">
+            <h1>
+              El meu m&oacute;n
+            </h1>
+            <p>
+              Enlla&ccedil;os a la meva vida digital
+            </p>
+          </div>
+          <div class="services">
+            <div class="col-lg-6 col-sm-6">
+              <div class="icon-wrap ico-bg round-five wow zoomIn" data-wow-duration="1.5s" data-wow-delay=".1s">
+                <i class="fa fa-edit">
+                </i>
+              </div>
+              <div class="content">
+                <h3 class="title">
+                  <a href="http://blog.apuestesuvida.com/" target="_blank">Blog</a>
+                </h3>
+                <p>El meu espai per escriure les meves histories.</p>
+              </div>
+            </div>
+            <div class="col-lg-6 col-sm-6">
+              <div class="icon-wrap ico-bg round-five wow zoomIn" data-wow-duration="1.5s" data-wow-delay=".3s">
+                <i class="fa fa-edit">
+                </i>
+              </div>
+              <div class="content">
+                <h3 class="title">
+                  <a href="http://uesants.blogspot.com.es/" target="_blank">U.E. Sants</a>
+                </h3>
+                <p>
+                  Petit blog on recullo informacio sobre el primer equip de la U.E. Sants.
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class="services">
+            <div class="col-lg-6 col-sm-6">
+              <div class="icon-wrap ico-bg round-five wow zoomIn" data-wow-duration="1.5s" data-wow-delay=".5s">
+                <i class="fa fa-facebook">
+                </i>
+              </div>
+              <div class="content">
+                <h3 class="title">
+                 <a href="https://www.facebook.com/tr3stigres" target="_blank">Facebook</a>
+                </h3>
+                <p>
+                  El meu perfil a Facebook.
+                </p>
+              </div>
+            </div>
+            <div class="col-lg-6 col-sm-6">
+              <div class="icon-wrap ico-bg round-five wow zoomIn" data-wow-duration="1.5s" data-wow-delay=".7s">
+                <i class="fa fa-twitter">
+                </i>
+              </div>
+              <div class="content">
+                <h3 class="title">
+                 <a href="https://twitter.com/tr3stigres" target="_blank">Twitter</a>
+                </h3>
+                <p>
+                   El meu perfil a Twitter
+                </p>
+              </div>
+            </div>
+          </div>   
+          <div class="services">
+            <div class="col-lg-6 col-sm-6">
+              <div class="icon-wrap ico-bg round-five wow zoomIn" data-wow-duration="1.5s" data-wow-delay=".5s">
+                <i class="fa fa-google-plus">
+                </i>
+              </div>
+              <div class="content">
+                <h3 class="title">
+                 <a href="https://plus.google.com/113566188843411062083/posts" target="_blank">Google +</a>
+                </h3>
+                <p>
+                  El meu perfil a Google +.
+                </p>
+              </div>
+            </div>
+            <div class="col-lg-6 col-sm-6">
+              <div class="icon-wrap ico-bg round-five wow zoomIn" data-wow-duration="1.5s" data-wow-delay=".7s">
+                <i class="fa fa-linkedin">
+                </i>
+              </div>
+              <div class="content">
+                <h3 class="title">
+                 <a href="http://es.linkedin.com/pub/jordi-gil-xim%C3%A9nez/68/419/2b6" target="_blank">LinkedIn</a>
+                </h3>
+                <p>
+                   El meu perfil a LinkedIn
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class="services">
+            <div class="col-lg-6 col-sm-6">
+              <div class="icon-wrap ico-bg round-five wow zoomIn" data-wow-duration="1.5s" data-wow-delay=".5s">
+                <i class="fa fa-flickr">
+                </i>
+              </div>
+              <div class="content">
+                <h3 class="title">
+                 <a href="http://www.flickr.com/photos/haboob" target="_blank">Flickr</a>
+                </h3>
+                <p>
+                  Les meves fotos personals a Flickr
+                </p>
+              </div>
+            </div>
+            <div class="col-lg-6 col-sm-6">
+              <div class="icon-wrap ico-bg round-five wow zoomIn" data-wow-duration="1.5s" data-wow-delay=".7s">
+                <i class="fa fa-flickr">
+                </i>
+              </div>
+              <div class="content">
+                <h3 class="title">
+                 <a href="http://www.flickr.com/photos/uesants" target="_blank">Flickr (U.E. Sants)</a>
+                </h3>
+                <p>
+                   Les meves fotos de la U.E. Sants a Flickr
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class="services">
+            <div class="col-lg-6 col-sm-6">
+              <div class="icon-wrap ico-bg round-five wow zoomIn" data-wow-duration="1.5s" data-wow-delay=".5s">
+                <i class="fa fa-youtube">
+                </i>
+              </div>
+              <div class="content">
+                <h3 class="title">
+                 <a href="http://www.youtube.com/user/haboobweb" target="_blank">YouTube</a>
+                </h3>
+                <p>
+                  Els meus videos personals a Youtube.
+                </p>
+              </div>
+            </div>
+            <div class="col-lg-6 col-sm-6">
+              <div class="icon-wrap ico-bg round-five wow zoomIn" data-wow-duration="1.5s" data-wow-delay=".7s">
+                <i class="fa fa-youtube">
+                </i>
+              </div>
+              <div class="content">
+                <h3 class="title">
+                 <a href="http://www.youtube.com/user/uesantsfan" target="_blank">YouTube (U.E. Sants)</a>
+                </h3>
+                <p>
+                   Els meus videos de la U.E. Sants a Youtube
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class="services">
+            <div class="col-lg-6 col-sm-6">
+              <div class="icon-wrap ico-bg round-five wow zoomIn" data-wow-duration="1.5s" data-wow-delay=".5s">
+                <i class="fa fa-vimeo-square">
+                </i>
+              </div>
+              <div class="content">
+                <h3 class="title">
+                 <a href="https://vimeo.com/user1807689/videos" target="_blank">Vimeo</a>
+                </h3>
+                <p>
+                  Els meus videos personals a Vimeo.
+                </p>
+              </div>
+            </div>
+            <div class="col-lg-6 col-sm-6">
+              <div class="icon-wrap ico-bg round-five wow zoomIn" data-wow-duration="1.5s" data-wow-delay=".7s">
+                <i class="fa fa-pinterest">
+                </i>
+              </div>
+              <div class="content">
+                <h3 class="title">
+                 <a href="http://www.pinterest.com/tr3stigres" target="_blank">Pinterest</a>
+                </h3>
+                <p>
+                   Els meus pins a Pinterest
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class="services">
+            <div class="col-lg-6 col-sm-6">
+              <div class="icon-wrap ico-bg round-five wow zoomIn" data-wow-duration="1.5s" data-wow-delay=".5s">
+                <i class="fa ">
+                </i>
+              </div>
+              <div class="content">
+                <h3 class="title">
+                 <a href="http://about.me/jordigil" target="_blank">AboutMe</a>
+                </h3>
+                <p>
+                  El meu perfil a AboutMe
+                </p>
+              </div>
+            </div>
+            <div class="col-lg-6 col-sm-6">
+              <div class="icon-wrap ico-bg round-five wow zoomIn" data-wow-duration="1.5s" data-wow-delay=".7s">
+                <i class="fa ">
+                </i>
+              </div>
+              <div class="content">
+                <h3 class="title">
+                 <a href="http://apuestesuvida.spreadshirt.es/" target="_blank">SpreadShirt</a>
+                </h3>
+                <p>
+                   La meva botiga de samarretes
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    </div>
+    
+
+
+    <!--container end-->

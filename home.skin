@@ -1,0 +1,42 @@
+<div id="section1">
+			<div class="container">
+				<h2>Els meus mons digitals</h2>
+				<p>Els mons socials:</p>
+				<ul>
+					<li><a href="http://blog.apuestesuvida.com/" target="_blank"><i class="fa fa-edit"></i> Blog</a></li>
+					<li><a href="https://www.facebook.com/tr3stigres" target="_blank"><i class="fa fa-facebook"></i> Facebook</a></li>
+					<li><a href="https://twitter.com/tr3stigres" target="_blank"><i class="fa fa-twitter"></i> @tr3stigres</a></li>
+					<li><a href="https://www.flickr.com/photos/haboob" target="_blank"><i class="fa fa-flickr"></i> Flickr</a></li>
+					<li><a href="https://instagram.com/tr3stigres/" target="_blank"><i class="fa fa-instagram"></i> Instagram</a></li>
+					<li><a href="http://es.linkedin.com/pub/jordi-gil-xim%C3%A9nez/68/419/2b6" target="_blank"><i class="fa fa-linkedin"></i> LinkedIn</a></li>
+					<li><a href="http://www.youtube.com/user/haboobweb" target="_blank"><i class="fa fa-youtube"></i> YouTube</a></li>
+					<li><a href="https://www.pinterest.com/tr3stigres/" target="_blank"><i class="fa fa-pinterest"></i> Pinterest</a></li>
+					<li><a href="https://plus.google.com/113566188843411062083/posts" target="_blank"><i class="fa fa-google-plus"></i> Google +</a></li>
+					<li><a href="http://about.me/jordigil" target="_blank"><i class="fa fa-th"></i> AboutMe</a></li>
+					<li><a href="https://vimeo.com/user1807689/videos" target="_blank"><i class="fa fa-vimeo-square"></i> Vimeo</a></li>
+				</ul>
+				<p>Els mons experimentals:</p>
+				<ul>
+					<li><a href="http://uesants.blogspot.com.es/" target="_blank"><i class="fa fa-edit"></i> U.E. Sants</a></li>
+					<li><a href="http://www.flickr.com/photos/uesants" target="_blank"><i class="fa fa-flickr"></i> Flickr (U.E. Sants)</a></li>
+					<li><a href="http://www.youtube.com/user/uesantsfan" target="_blank"><i class="fa fa-youtube"></i> YouTube (U.E. Sants)</a></li>
+					<li><a href="http://apuestesuvida.spreadshirt.es/" target="_blank"><i class="fa fa-th"></i> SpreadShirt</a></li>
+					<li><a href="http://recuerdoscinefilos.blogspot.com.es/" target="_blank"><i class="fa fa-edit"></i> Recuerdos cinéfilos</a></li>
+					<li><a href="https://twitter.com/recuerdoscine" target="_blank"><i class="fa fa-twitter"></i> @recuerdoscine</a></li>
+				</ul>
+				<br>
+			</div>
+		</div>
+		<div id="section2">
+			<h2>Les meves coses</h2>
+			<p>Vídeos, imatges i demés coses que faig</p>
+			<div class="container">
+				<ul>
+					<li><a href="[base_http]/links"> Links ràpids</a></li>
+					<li><a href="[base_http]/video/concert"> Vídeos</a></li>
+					<li><a href="[base_http]/banda_sonora"> Banda sonora</a></li>
+                                        <li><a href="[base_http]/cajon">Calaix de sastre</a></li>
+				</ul>
+				<br>
+			</div>
+		</div>		
